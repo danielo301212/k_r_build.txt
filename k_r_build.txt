@@ -3,8 +3,8 @@ version="8.0.3"
 zip="https://shorturl.at/dAIRV" 
 
 name="kodirei" 
-version="1.0.0" 
-url="https://www.dropbox.com/scl/fi/zxy8kbnp8568jryw8edls/kodi-reinkarnacja.zip?rlkey=fkh7z3gwnm71pcn466f04rvxo&st=l4h8e2q5&dl=1"
+version="1.0.1" 
+url="https://www.dropbox.com/scl/fi/5guh0zu3s9ma7pwvg0ijz/KODI-REIKARNACJA-P-FINA.zip?rlkey=mkz00boe3ds2o3dkc9euaqglw&st=uv6frsf1&dl=1"
 minor="http://"
 gui="http://"
 kodi="20.2" 
@@ -14,6 +14,6 @@ fanart="https://TUTAJ LINK DO GRAFIKI TŁO"
 preview="https://" 
 adult="no" 
 info="http://" 
-description="k_r_ Build V.1.0.0"
+description="k_r_ Build V.1.0.1"
 
 
