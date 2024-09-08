@@ -4,7 +4,7 @@ zip="https://shorturl.at/dAIRV"
 
 name="kodirei" 
 version="1.0.2" 
-url="https://www.dropbox.com/scl/fi/zaujxd5flua4ggdflzkfi/Polska-Dani-new-PPV-Fiko-ki-2.m3u?rlkey=7de0ihaudydmmd8907inmrgwi&st=99eubyk7&dl=1"
+url="https://www.dropbox.com/scl/fi/radzmxz7r64d1ncgra2g4/reikarnacja.zip?rlkey=oc2ipgp5pkpnpdfye9c4rgduw&st=puulas5f&dl=1"
 minor="http://"
 gui="http://"
 kodi="20.2" 
