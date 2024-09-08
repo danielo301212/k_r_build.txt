@@ -3,8 +3,8 @@ version="8.0.3"
 zip="https://shorturl.at/dAIRV" 
 
 name="kodirei" 
-version="1.0.1" 
-url="https://www.dropbox.com/scl/fi/5guh0zu3s9ma7pwvg0ijz/KODI-REIKARNACJA-P-FINA.zip?rlkey=mkz00boe3ds2o3dkc9euaqglw&st=uv6frsf1&dl=1"
+version="1.0.2" 
+url="https://www.dropbox.com/scl/fi/zaujxd5flua4ggdflzkfi/Polska-Dani-new-PPV-Fiko-ki-2.m3u?rlkey=7de0ihaudydmmd8907inmrgwi&st=99eubyk7&dl=1"
 minor="http://"
 gui="http://"
 kodi="20.2" 
@@ -14,6 +14,6 @@ fanart="https://TUTAJ LINK DO GRAFIKI TŁO"
 preview="https://" 
 adult="no" 
 info="http://" 
-description="k_r_ Build V.1.0.1"
+description="k_r_ Build V.1.0.2"
 
 
